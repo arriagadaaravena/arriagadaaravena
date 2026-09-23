@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Abigail B. Arriagada Aravena</h1>
+<h1 align="center">Hola 👋, soy Abigail Arriagada Aravena</h1>
 <h3 align="center">Ex profesora en transición hacia la programación | Estudiante de Análisis Programación Computacional (Duoc UC) | Rumbo a Cloud Security & DevSecOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arriagadaaravena&label=Profile%20views&color=0e75b6&style=flat" alt="arriagadaaravena" /> </p>
