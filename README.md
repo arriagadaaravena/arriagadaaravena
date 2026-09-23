@@ -19,7 +19,7 @@
 
 - 💬 Pregúntame sobre **JavaScript, Python, MySQL, Git/GitHub, AWS (EC2, VPC, S3)**
 
-- 📫 Cómo contactarme **a.arriagada.aravena@gmail.com**
+- 📫 Puedes contactarme en **a.arriagada.aravena@gmail.com**
 
 - ⚡ Dato curioso **Antes de programar, enseñaba Lengua y literatura en educación media📚➡️💻**
 
